@@ -1,4 +1,4 @@
-#!/usr/bin/e
+#!/usr/bi
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
